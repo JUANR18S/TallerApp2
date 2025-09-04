@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TallerApp2</string>
+    <string name="user">Ingrese usuario</string>
+    <string name="password">Constraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="promedio">Promedio</string>
+    <string name="conversor">Conversor</string>
+    <string name="programas">Programas</string>
+    <string name="taller_2">Taller 2</string>
+    <string name="Salir">Salir</string>
+</resources>
